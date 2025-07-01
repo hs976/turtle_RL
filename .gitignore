@@ -1,0 +1,17 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python virtual environment
+ai_env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+
+# User-specific files from editors
+.vscode/
